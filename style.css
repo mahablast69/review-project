@@ -1,0 +1,23 @@
+li {
+    float: left;
+  }
+  
+  a {
+    display: block;
+    padding: 8px;
+    background-color: #b1424200;
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .bar{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+  }
+
+  body {
+    background-image: url("https://th.bing.com/th/id/R.cf853ad88b4fd3d12a25f95148ca93ce?rik=RPaW9uzzD15aVA&pid=ImgRaw&r=0");
+  }
